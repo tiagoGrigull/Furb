@@ -5,7 +5,7 @@ public class Uni5Exe03 {
         for(int i = 1; i <=100 ; i++){
             calculo += 1.0 /i;
         }
-        System.out.println(calculo);
+        System.out.printf("%.2f",calculo);
     }
 
 }
