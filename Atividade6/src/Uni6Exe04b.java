@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Uni6Exe04 {
+public class Uni6Exe04b {
     Scanner sc = new Scanner(System.in);
     int quantidade = 10;
     public int[] num1 = new int[quantidade];
